@@ -13,7 +13,7 @@ This project is a web-based application designed to predict heart disease risk a
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/heart-disease-app.git
+   git clone https://github.com/abhiram-k-2223/zenith-proj.git
    ```
 2. **Create a Virtual Environment:**
    ```bash
