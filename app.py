@@ -18,8 +18,6 @@ svc = joblib.load(r"C:\Users\LENOVO T480\Desktop\zenith\svc.joblib")
 
 st.set_page_config(layout="wide")
 
-# 'AIzaSyAooef3TMsvjrESXilW-P-CyawEsP6dhHs' 
-
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 genai.configure(api_key=GOOGLE_API_KEY)
 
